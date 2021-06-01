@@ -10,11 +10,13 @@ Changelogs:
 
 - Added the ability to break objects
 
-- Objects get destroyed after broken
+- Certain objects get destroyed after broken
 
 - Added backpack and backpack button
 
-- Backpack items now are color-coded to match their object
+- Backpack items now are color-coded, have names, and have amounts
 
 - You can drag and drop items throught different slots to sort them
+
+- You can get items from breaking stuff
 
