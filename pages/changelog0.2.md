@@ -8,6 +8,8 @@ NOTE: This is still a work-in-progress update, this is used to see what has been
 
 Changelogs:
 
+Breaking:
+
 - Added the ability to break objects
 
 - Certain objects get destroyed after broken
@@ -19,4 +21,12 @@ Changelogs:
 - You can drag and drop items throught different slots to sort them
 
 - You can get items from breaking stuff
+
+Dropping:
+
+- Added the ability to drop items
+
+- Items drop when dragged and dropped out of the inventory
+
+
 
