@@ -4,8 +4,6 @@ title: Changelogs-0.2
 permalink: /changelog0.2/
 ---
 
-NOTE: This is still a work-in-progress update, this is used to see what has been added to the future update
-
 Changelogs:
 
 Breaking:
@@ -24,9 +22,13 @@ Breaking:
 
 Dropping:
 
-- Added the ability to drop items
-
 - Items drop when dragged and dropped out of the inventory
+
+- Only the rock and weed can be dropped
+
+Camera:
+
+- Camera now follows the player
 
 
 
