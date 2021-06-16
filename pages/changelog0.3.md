@@ -4,11 +4,23 @@ title: Changelogs-0.3
 permalink: /changelog0.3/
 ---
 
-NOTE: This is still a work-in-progress update, this is used to see what has been added to the future update
-
 Changelogs:
 
-So far nothing yet
+Animation:
+
+- Backpack now scrolls nicely when toggled
+
+Sound: 
+
+- Game now randomly picks one out of three background songs to play at the start of the game
+
+- After the song ends it will wait 2-3 minutes then pick a diffrent song to the last
+
+Effects: 
+
+- Added breaking effects
+
+- Added walking effects
 
 
 
