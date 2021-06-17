@@ -8,7 +8,7 @@ NOTE: This is still a work-in-progress update, this is used to see what has been
 
 Changelogs:
 
-So far nothing yet
+- Added flint and sticks1
 
 
 
