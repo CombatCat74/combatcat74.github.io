@@ -8,7 +8,13 @@ NOTE: This is still a work-in-progress update, this is used to see what has been
 
 Changelogs:
 
-- Added flint and sticks1
+- Added flint and sticks and blueprint stump items
+
+Blueprint Stump:
+
+- Added blueprint stump
+
+- Added blueprint stump UI
 
 
 
